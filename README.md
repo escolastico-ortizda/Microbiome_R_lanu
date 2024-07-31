@@ -14,4 +14,4 @@ Differentially abundant bacteria drive the N2-fixation of a widespread moss in t
 
 ## 4. Citation
 
-Escolástico-Ortiz, D.A., Blasi, C., Bellenger, JP. et al. Differentially abundant bacteria drive the N2-fixation of a widespread moss in the forest-tundra transition zone. Symbiosis 90, 193–211 (2023). https://doi.org/10.1007/s13199-023-00930-y
+Escolástico-Ortiz, D.A., Blasi, C., Bellenger, JP., Derome, N. & Villarreal-A, J.C. Differentially abundant bacteria drive the N2-fixation of a widespread moss in the forest-tundra transition zone. Symbiosis 90, 193–211 (2023). https://doi.org/10.1007/s13199-023-00930-y
