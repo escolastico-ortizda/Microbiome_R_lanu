@@ -194,7 +194,7 @@ library("phangorn")
 
 # Construct a phyloseq object with metadata
 getwd()
-setwd("C:/Users/escol/OneDrive - Universit� Laval/6_Doctorat en Biologie/1_Thesis/Chapter3_Microbiome")
+#setwd("REPLACE_your_directory")
 data_16S_all <- read.delim("./Microbiome_bioinformatic_analyses/Script_Bacterial_community/16S_all_data.txt", sep = "\t", header = TRUE, row.names = 1)
 str(data_16S_all)
 data_16S_all$Plot <-as.factor(data_16S_all$Plot)
