@@ -11,7 +11,7 @@ packageVersion("dada2")
 ##-------------------- 1. Analyses of 16S sequences from soil --------------------##
 
 # Load the amplicons sequences
-setwd("C:/Users/escol/OneDrive - Université Laval/6_Doctorat en Biologie/1_Thesis/Chapter3_Microbiome")
+#setwd("REPLACE_your_directory")
 getwd()
 Path16S_soil <-"./Amplicon_sequencing/Amplicon_Sequence_files/soil_16S"
 list.files(Path16S_soil)
