@@ -1,0 +1,27 @@
+Sample	Site	Habitat	Mean	SD
+417	Umiujaq	"Shrub tundra"	2.4123	2.08
+416	Umiujaq	"Shrub tundra"	46.5102	37.50
+415	Umiujaq	"Shrub tundra"	25.4084	4.88
+414	Umiujaq	"Shrub tundra"	15.6336	5.33
+412	Umiujaq	"Shrub tundra"	48.8868	16.58
+411	Umiujaq	"Shrub tundra"	51.9379	14.78
+408	Umiujaq	"Shrub tundra"	3.7820	2.40
+407	Umiujaq	"Shrub tundra"	2.5340	1.70
+402	Umiujaq	"Shrub tundra"	36.2909	5.82
+401	Umiujaq	"Shrub tundra"	35.3279	8.00
+399	Umiujaq	"Shrub tundra"	18.6399	3.67
+398	Umiujaq	"Shrub tundra"	26.9226	5.73
+394	Kuujjuarapik	"Forest tundra"	19.2385	5.11
+393	Kuujjuarapik	"Forest tundra"	41.4969	11.00
+389	Kuujjuarapik	"Forest tundra"	35.3623	6.49
+388	Kuujjuarapik	"Forest tundra"	15.1547	1.85
+387	Kuujjuarapik	"Forest tundra"	2.2787	1.93
+386	Kuujjuarapik	"Forest tundra"	1.7485	0.24
+383	Kuujjuarapik	"Forest tundra"	8.4416	4.71
+382	Kuujjuarapik	"Forest tundra"	0.5673	0.23
+380	Kuujjuarapik	"Forest tundra"	8.5563	6.39
+379	Kuujjuarapik	"Forest tundra"	31.2114	9.86
+375	Kuujjuarapik	"Forest tundra"	8.1314	3.53
+370	Kuujjuarapik	"Forest tundra"	4.3657	1.28
+369	Kuujjuarapik	"Forest tundra"	36.4717	19.76
+405	Umiujaq	"Shrub tundra"	22.1732	2.35
