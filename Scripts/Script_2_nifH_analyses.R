@@ -53,7 +53,7 @@ plotQualityProfile(filtnifRs[1:12])
 #BiocManager::install("phyloseq")
 library("phyloseq"); packageVersion("phyloseq")
 
-setwd("C:/Users/escol/OneDrive - Université Laval/6_Doctorat en Biologie/1_Thesis/Chapter3_Microbiome/Microbiome_bioinformatic_analyses")
+#setwd("REPLACE_your_directory")
 
 
 OTU_nifH=read.table ("NifMAP_results/otu_table.txt",header=T, sep="")
