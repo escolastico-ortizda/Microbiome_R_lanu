@@ -4,54 +4,55 @@
 This repository contains the scripts and dataset related to the project “Differentially abundant bacteria drive the N2-fixation of a widespread moss in the forest-tundra transition zone ”. The main goal of the code is to provide detailed information on the project/article analyses (reproducibility).
 
 > **Abstract**: Bryophytes maintain symbiosis with bacteria influencing the local nutrient budget. Moss bacterial communities are composed of a core microbiome and bacteria recruited from environmental sources. Notably, symbiotic N2-fixing bacteria contribute to the N budget in northern ecosystems through biological nitrogen fixation. This process may be affected by the abundance of diazotrophs and moss nutrient content. We used the abundant moss Racomitrium lanuginosum in a forest tundra and shrub tundra in Northern Quebec, Canada, to investigate the bacterial and diazotrophic communities associated with habitat type using amplicon sequencing of the bacterial 16S rRNA and nifH genes and test whether the moss core microbiome has recruitment from the soil bacteria community. The nifH amplicons and element analysis were used to test the effect of diazotrophic abundance and moss nutrient content on N2-fixation activity estimated by acetylene reduction assays. Moss microbial communities between tundra types hosted similar bacterial diversity but differentially abundant groups and characteristic microbial interaction patterns. The core microbiome of R. lanuginosum is composed of bacteria strongly associated with northern mosses with no significant recruitment from the soil. The relative abundances of dominant diazotrophs are significantly correlated with acetylene reduction rates. In contrast, the moss nutrient content did not significantly drive N2-fixation. The proteobacterial genera Azorhizobium and Rhodomicrobium represent newly reported bacteria associated with N2-fixation rates in the tundra. We identified critical bacterial groups related to moss-bacterial symbiosis and N2-fixation in the forest-tundra transition zone, a changing environment susceptible to climate warming.
-> Keywords Azorhizobium · Biological nitrogen fixation · Core microbiome · Moss symbiosis · Racomitrium lanuginosum · Rhodomicrobium.
+> **Keywords**: Azorhizobium · Biological nitrogen fixation · Core microbiome · Moss symbiosis · Racomitrium lanuginosum · Rhodomicrobium.
 
 ## 2. Software information
 The code was run on the bioinformatic platform of the [Institut de Biologie Intégrative et des Systèmes (IBIS)](https://www.ibis.ulaval.ca/en/services-2/bioinformatics/documentation-servers/) at Laval University and on the statistic environment R. Check each script for details.
+
 The following software and R packages were employed for the analyses:
 
 **Software**
-LefSE
-CoNet
-NifMAP
-usearch/9.2.64_i86linux32
-hmmer/3.3
-FrameBot
-ncbiblast/2.11.0
-mafft/7.453
-RAxML/8.2.9
-seqmagick/0.8.4
+- LefSE
+- CoNet
+- NifMAP
+- usearch/9.2.64_i86linux32
+- hmmer/3.3
+- FrameBot
+- ncbiblast/2.11.0
+- mafft/7.453
+- RAxML/8.2.9
+- seqmagick/0.8.4
 
 **R/v.4.1.3 packages**
-dada2
-phyloseq
-Biostrings
-ggplot2
-phangorn
-DECIPHER
-decontam
-dplyr
-vegan
-tidyr
-MASS
-picante
-GUniFrac
-data.table
-grid
-vctrs
-cli
-tidyverse
-magrittr
-speedyseq
-eulerr
-microbiome
-microbiomeutilities
-RColorBrewer
-ggpubr
-lme4
-lmerTest
-car
-glmmTMB
+- dada2
+- phyloseq
+- Biostrings
+- ggplot2
+- phangorn
+- DECIPHER
+- decontam
+- dplyr
+- vegan
+- tidyr
+- MASS
+- picante
+- GUniFrac
+- data.table
+- grid
+- vctrs
+- cli
+- tidyverse
+- magrittr
+- speedyseq
+- eulerr
+- microbiome
+- microbiomeutilities
+- RColorBrewer
+- ggpubr
+- lme4
+- lmerTest
+- car
+- glmmTMB
 
 ## 3. Data availability
 Files used for analyses are provided in the *Dataset* folder.
