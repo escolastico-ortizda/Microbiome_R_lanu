@@ -55,7 +55,7 @@ The following software and R packages were employed for the analyses:
 - glmmTMB
 
 ## 3. Data availability
-Files used for analyses are provided in the [Datasets](Microbiome_R_lanu/Datasets) folder.
+Files used for analyses are provided in the [Datasets](/Datasets) folder.
 
 The moss vouchers are deposited at the QFAherbarium corresponding to catalogue numbers QFA-637608 to QFA-637686. The raw sequences of this study are deposited in the NCBI Sequence Read Archive (SRA) database under the [BioProject PRJNA893897](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA893897/). The moss and soil samples are associated with Bio-Samples SAMN31436785–SAMN31436859 and SAMN31439125–SAMN31439151, respectively. The moss 16S sequences correspond to SRA accessions SRR22028313–SRR22028356, moss nifHsequences to SRR22032306–SRR22032359, and soil 16S sequences to SRR22031903– SRR22031923. For detailed information, see Supplementary Information Table S1.
 
