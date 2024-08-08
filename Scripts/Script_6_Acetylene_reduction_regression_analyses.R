@@ -17,7 +17,7 @@ require(MASS)
 
 # Import data 
 
-setwd("C:/Users/escol/OneDrive - Université Laval/6_Doctorat en Biologie/1_Thesis/Chapter3_Microbiome")
+setwd("Path_to_folder")
 BNF_metals<- read.delim ("Correlation_analyses/BNF_Metal_content.txt",header=T)
 head(BNF_metals)
 summary(BNF_metals)
@@ -297,7 +297,7 @@ qqline(residuals(GHQ1))
 
 ##-------------------- 4. Modeling using means per plot - Explore data --------------------##
 
-setwd("C:/Users/escol/OneDrive - Université Laval/6_Doctorat en Biologie/1_Thesis/Chapter3_Microbiome")
+setwd("Path_to_folder")
 Data_means<- read.delim ("Correlation_analyses/data_cor_means_top_20.txt",header=T)
 Data_means
 head(Data_means)
