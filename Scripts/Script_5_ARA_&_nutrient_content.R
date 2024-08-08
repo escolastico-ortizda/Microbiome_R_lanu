@@ -65,7 +65,7 @@ wilcox.test(ARA_F[,4],ARA_S[,4])
 
 # Metal content results
 
-Metals<- read.delim("C:/Users/escol/OneDrive - Université Laval/6_Doctorat en Biologie/1_Thesis/Chapter3_Microbiome/Element_concentration_moss/Mean_element_concentrations.txt",header=T)
+Metals<- read.delim("Path_to_folder/Mean_element_concentrations.txt",header=T)
 Metals<-Metals[,-3]
 # Metal concentration comparison between two types of tundra
 
