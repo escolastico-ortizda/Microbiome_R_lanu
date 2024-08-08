@@ -7,7 +7,7 @@ library(tidyr)
 
 # Acetylene reduction assay results
 
-ARA<- read.delim("C:/Users/escol/OneDrive - Université Laval/6_Doctorat en Biologie/1_Thesis/Chapter3_Microbiome/ARA/Mean_ARA_results.txt",header=T)
+ARA<- read.delim("Path_to_folder/Mean_ARA_results.txt",header=T)
 
 theme_set(theme_bw())
 
