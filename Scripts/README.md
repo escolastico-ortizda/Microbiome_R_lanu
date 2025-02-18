@@ -7,17 +7,17 @@ Keywords Azorhizobium · Biological nitrogen fixation · Core microbiome · Moss
 
 2. Software information
 
-Software
-LefSE
-CoNet
-NifMAP
-usearch/9.2.64_i86linux32
-hmmer/3.3
-FrameBot
-ncbiblast/2.11.0
-mafft/7.453
-RAxML/8.2.9
-seqmagick/0.8.4
+-Software
+-LefSE
+-CoNet
+-NifMAP
+-usearch/9.2.64_i86linux32
+-hmmer/3.3
+-FrameBot
+-ncbiblast/2.11.0
+-mafft/7.453
+-RAxML/8.2.9
+-seqmagick/0.8.4
 
 R/v.4.1.3 packages
 dada2
