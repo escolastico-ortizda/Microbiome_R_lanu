@@ -57,14 +57,14 @@ The following software and R packages were employed for the analyses:
 ## 3. Data availability
 Files used for analyses are provided in the [Datasets](/Datasets) folder.
 
-The moss vouchers are deposited at the QFAherbarium corresponding to catalogue numbers QFA-637608 to QFA-637686. The raw sequences of this study are deposited in the NCBI Sequence Read Archive (SRA) database under the [BioProject PRJNA893897](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA893897/). The moss and soil samples are associated with Bio-Samples SAMN31436785–SAMN31436859 and SAMN31439125–SAMN31439151, respectively. The moss 16S sequences correspond to SRA accessions SRR22028313–SRR22028356, moss nifHsequences to SRR22032306–SRR22032359, and soil 16S sequences to SRR22031903– SRR22031923. For detailed information, see Supplementary Information Table S1.
+The moss vouchers are deposited at the [QFAherbarium](https://www.herbier.ulaval.ca/en) corresponding to catalogue numbers QFA-637608 to QFA-637686. The raw sequences of this study are deposited in the NCBI Sequence Read Archive (SRA) database under the [BioProject PRJNA893897](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA893897/). The moss and soil samples are associated with Bio-Samples SAMN31436785–SAMN31436859 and SAMN31439125–SAMN31439151, respectively. The moss 16S sequences correspond to SRA accessions SRR22028313–SRR22028356, moss nifH sequences to SRR22032306–SRR22032359, and soil 16S sequences to SRR22031903–SRR22031923. For detailed information, see Supplementary Information Table S1 of the article.
 
 Differentially abundant bacteria drive the N<sup>2</sup>-fixation of a widespread moss in the forest-tundra transition zone. Available from: [ResearchGate - Dennis Escolástico.](https://www.researchgate.net/publication/372956582_Differentially_abundant_bacteria_drive_the_N2-fixation_of_a_widespread_moss_in_the_forest-tundra_transition_zone)
 
 ## 4. Citation
 If you use part or the entire code in your work, please cite it using the following reference:
 
-Escolástico-Ortiz, D.A., Blasi, C., Bellenger, JP., Derome, N. & Villarreal-A, J.C. 2023. Differentially abundant bacteria drive the N<sup>2</sup>-fixation of a widespread moss in the forest-tundra transition zone. Symbiosis 90, 193–211. https://doi.org/10.1007/s13199-023-00930-y
+[Escolástico-Ortiz, D.A., Blasi, C., Bellenger, JP., Derome, N. & Villarreal-A, J.C. 2023. Differentially abundant bacteria drive the N<sup>2</sup>-fixation of a widespread moss in the forest-tundra transition zone. Symbiosis 90, 193–211.](https://doi.org/10.1007/s13199-023-00930-y)
 
 > [!NOTE]
 Be aware that the code may contain issues related to updated software or packages and IS NOT intended to serve as an optimized pipeline but as supplementary information for the research.
