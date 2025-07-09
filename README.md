@@ -7,7 +7,7 @@ This repository contains the scripts and dataset related to the project “Diffe
 > **Keywords**: *Azorhizobium* · Biological nitrogen fixation · Core microbiome · Moss symbiosis · *Racomitrium lanuginosum* · *Rhodomicrobium*.
 
 ## 2. Software information
-The code was run on the bioinformatic platform of the [Institut de Biologie Intégrative et des Systèmes (IBIS)](https://www.ibis.ulaval.ca/en/services-2/bioinformatics/documentation-servers/) at Laval University and on the statistic environment R. Check each script for details.
+The code was run on the bioinformatic platform of the [Institut de Biologie Intégrative et des Systèmes (IBIS)](https://www.ibis.ulaval.ca/en/services-2/bioinformatics/documentation-servers/) at Laval University and on the statistic environment R. Check each [script](/Scripts) for details.
 
 The following software and R packages were employed for the analyses:
 
