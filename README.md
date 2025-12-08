@@ -54,6 +54,10 @@ The following software and R packages were employed for the analyses:
 - car
 - glmmTMB
 
+> [!NOTE]
+Be aware that the code may contain issues related to updated software or packages and IS NOT intended to serve as an optimized pipeline but as supplementary information for the research.
+
+
 ## 3. Data availability
 Files used for analyses are provided in the [Datasets](/Datasets) folder.
 
@@ -66,5 +70,3 @@ If you use part or the entire code in your work, please cite it using the follow
 
 [Escolástico-Ortiz, D.A., Blasi, C., Bellenger, JP., Derome, N. & Villarreal-A, J.C. 2023. Differentially abundant bacteria drive the N<sup>2</sup>-fixation of a widespread moss in the forest-tundra transition zone. Symbiosis 90, 193–211.](https://doi.org/10.1007/s13199-023-00930-y)
 
-> [!NOTE]
-Be aware that the code may contain issues related to updated software or packages and IS NOT intended to serve as an optimized pipeline but as supplementary information for the research.
